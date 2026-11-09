@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- Centering a main title -->
+<h1 align="center">i larp</h1>
+<img width="1080" height="1080" alt="alice" src="https://github.com/user-attachments/assets/9598519d-1d9d-418a-9d67-328bc5f109be" />
+
 
 <!--
 **verityhoangjacob67/verityhoangjacob67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
