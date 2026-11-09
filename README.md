@@ -1,6 +1,6 @@
 <!-- Centering a main title -->
 <h1 align="center">i larp</h1>
-<img width="1080" height="1080" alt="alice" src="https://github.com/user-attachments/assets/9598519d-1d9d-418a-9d67-328bc5f109be" />
+<img width="540" height="540" alt="alice" src="https://github.com/user-attachments/assets/9598519d-1d9d-418a-9d67-328bc5f109be" />
 
 
 <!--
